@@ -1,0 +1,21 @@
+{
+  "name": "nightly-inspiration-dark",
+  "displayName": "Nightly Inspiration Dark",
+  "description": "dark greenish blue theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nightly-Inspiration-Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nightly-Inspiration-Dark-color-theme.json"
+      }
+    ]
+  }
+}
