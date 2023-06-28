@@ -4,7 +4,7 @@
 This is my first attempt at a theme its a mix of dark green and blues with orange and yellow accents
 along with a hint of purple. I hope you enjoy it :)
 ## Install
-You can find at this link [marketplace](https://marketplace.visualstudio.com/items?itemName=GGRusty.nightly-inspiration-dark)
+You can find at this link: [marketplace](https://marketplace.visualstudio.com/items?itemName=GGRusty.nightly-inspiration-dark)
 
 ## Sample Images
 ### python
