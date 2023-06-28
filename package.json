@@ -2,7 +2,7 @@
   "name": "nightly-inspiration-dark",
   "displayName": "Nightly Inspiration Dark",
   "description": "A deep greenish blue background with blue and orange syntax highlighting.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "license": "MIT",
   "publisher": "GGRusty",
   "maintainers": [
@@ -27,7 +27,9 @@
     "blue",
     "dark",
     "theme",
-    "color-theme"
+    "color-theme",
+    "Green",
+    "water"
   ],
   "contributes": {
     "themes": [
