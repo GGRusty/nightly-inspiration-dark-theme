@@ -11,3 +11,7 @@ along with a hint of purple. I hope you enjoy it :)
 ![Screenshot](https://raw.githubusercontent.com/GGRusty/nightly-inspiration-dark-theme/main/Sample/sample_js.png)
 ### C++
 ![Screenshot](https://raw.githubusercontent.com/GGRusty/nightly-inspiration-dark-theme/main/Sample/sample_cpp.png)
+
+## License
+
+[MIT License](./LICENSE)
