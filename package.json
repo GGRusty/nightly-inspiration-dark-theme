@@ -1,13 +1,32 @@
 {
   "name": "nightly-inspiration-dark",
   "displayName": "Nightly Inspiration Dark",
-  "description": "dark greenish blue theme",
+  "description": "A deep green background with blue and orange accents.",
   "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "GGRusty",
+  "maintainers": [
+    "GGRusty <russ@sunriseanalysis.com>"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/GGRusty/nightly-inspiration-dark-theme.git"
+  },
+  "bugs": {
+    "url": "https://github.com/GGRusty/nightly-inspiration-dark-theme/issues"
+  },
   "engines": {
     "vscode": "^1.79.0"
   },
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "deep",
+    "blue",
+    "dark",
+    "theme",
+    "color-theme"
   ],
   "contributes": {
     "themes": [

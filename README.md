@@ -9,5 +9,5 @@ along with a hint of purple. I hope you enjoy it :)
 ![Screenshot](https://github.com/GGRusty/nightly-inspiration-dark-theme/blob/579b3817e4b8fa5110ad2df232c6b2eea29e5c56/Sample/sample_py.png)
 ### javascript
 ![Screenshot](https://github.com/GGRusty/nightly-inspiration-dark-theme/blob/579b3817e4b8fa5110ad2df232c6b2eea29e5c56/Sample/sample_js.png)
-### c++
+### C++
 ![Screenshot](https://github.com/GGRusty/nightly-inspiration-dark-theme/blob/579b3817e4b8fa5110ad2df232c6b2eea29e5c56/Sample/sample_cpp.png)
